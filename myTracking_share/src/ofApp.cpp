@@ -1,7 +1,7 @@
 //--------------------------------------------------------------------------------
-//  The ieda is come from CMUcam, which is a small size video tracking system.
-//  My goal is to make a more flexible video tracking system based on RaspberryPI. 
-//  I believe It could be more powerful and funny. 
+//  The idea comes from CMUcam, which is a small size video tracking system.
+//  My goal is to make a simple and flexible video tracking system.
+//  I believe It could be powerful and funny because of openFrameworks and RaspberryPI.
 //  
 //  The video is here: https://www.youtube.com/watch?v=tXOxcmbyjSg
 //  
